@@ -1,2 +1,2 @@
-# patnebe.github.com
+# patnebe.github.io
 Personal website
